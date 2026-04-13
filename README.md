@@ -1,1 +1,24 @@
 # projects
+Add files.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Notes App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h2>My Notes App</h2>
+
+<input type="text" id="noteInput" placeholder="Enter your note">
+
+<button onclick="addNote()">Add Note</button>
+
+<ul id="noteList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
