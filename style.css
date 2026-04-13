@@ -1,0 +1,15 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#f2f2f2;
+}
+
+input{
+    padding:8px;
+    width:200px;
+<ul id="noteList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
